@@ -1,0 +1,15 @@
+.heading{
+color: white;
+box-shadow: 5px 5px 5px grey;
+text-align: left;
+width: 100%;
+vertical-align: middle;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+}
